@@ -1,0 +1,13 @@
+# Salidas compiladas de Java
+bin/
+*.class
+
+# Archivos temporales y del sistema operativo
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
+
+# Entornos y metadatos locales de Eclipse
+.metadata/
+*.recommenders/
