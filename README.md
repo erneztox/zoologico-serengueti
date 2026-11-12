@@ -4,6 +4,16 @@ Proyecto académico integral desarrollado en **Java 21** para la administración
 
 El proyecto está diseñado bajo una arquitectura limpia y modular, plenamente compatible con **Eclipse IDE for Java Developers** y ejecutable de forma autónoma desde consola mediante herramientas estándar del JDK 21 (sin dependencias externas ni frameworks pesados).
 
+## Índice
+
+- [Objetivo del Proyecto](#1-objetivo-del-proyecto)
+- [Requisitos del Entorno](#2-requisitos-del-entorno)
+- [Estructura de Paquetes y Responsabilidades](#3-estructura-de-paquetes-y-responsabilidades)
+- [Conceptos de Programación Orientada a Objetos](#4-conceptos-de-programación-orientada-a-objetos-aplicados)
+- [Reglas de Negocio de la Zona de Contacto](#5-reglas-de-negocio-de-la-zona-de-contacto)
+- [Instrucciones de Ejecución](#6-instrucciones-de-ejecución)
+- [Demostración y Pruebas Realizadas](#7-demostración-y-pruebas-realizadas)
+
 ---
 
 ## 1. Objetivo del Proyecto
